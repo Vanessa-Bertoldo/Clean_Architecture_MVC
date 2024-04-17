@@ -1,0 +1,12 @@
+C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Domain\bin\Debug\net8.0\CleanArchMvc.Domain.deps.json
+C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Domain\bin\Debug\net8.0\CleanArchMvc.Domain.dll
+C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Domain\bin\Debug\net8.0\CleanArchMvc.Domain.pdb
+C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net8.0\CleanArchMvc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net8.0\CleanArchMvc.Domain.AssemblyInfoInputs.cache
+C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net8.0\CleanArchMvc.Domain.AssemblyInfo.cs
+C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net8.0\CleanArchMvc.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net8.0\CleanArchMvc.Domain.sourcelink.json
+C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net8.0\CleanArchMvc.Domain.dll
+C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net8.0\refint\CleanArchMvc.Domain.dll
+C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net8.0\CleanArchMvc.Domain.pdb
+C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Domain\obj\Debug\net8.0\ref\CleanArchMvc.Domain.dll
