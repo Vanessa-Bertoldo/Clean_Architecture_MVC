@@ -1,0 +1,11 @@
+RELACIONAMENTO DE DEPENDÊNCIA ENTRE OS PROJETOS
+
+- Domain: Não possui nenhuma dependência
+- Application: Dependência com o projeto (Domain)
+- Infra.Data: Dependência com o projeto (Domain)
+- Infra.IoC: Dependência com o projeto (Domain, Application, infra.Data)
+- WebUI: Dependência com o projeto (Infra.IoC)
+
+
+CAMADA DE DOMÍNIO
+Responsável por representar conceitos do negócio, informações sobre a situação do negócio e regras de negócio
