@@ -60,5 +60,13 @@ namespace CleanArchMvc.Domain.Tests
             action.Should().Throw<CleanArchMvc.Domain.Validation.DomainExceptionValidation>();
         }
 
+        [TestMethod(displayName: "Create Product with invalid image value 2")]
+        public void CreateProduct_InvalidImageValue_NoDomainException()
+        {
+            Action action = () => new Product(-1, "Product Name", "Product description", -99.99m, 5, null);
+
+            action.Should().NotThrow<NullReferenceException>();
+        }
+
     }
 }
