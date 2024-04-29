@@ -9,3 +9,6 @@ RELACIONAMENTO DE DEPENDÊNCIA ENTRE OS PROJETOS
 
 CAMADA DE DOMÍNIO
 Responsável por representar conceitos do negócio, informações sobre a situação do negócio e regras de negócio
+
+CAMADA DE INFRAESTRUTURA
+Responsável por lidar com as necessidades de infraestrutura e fornece a imlementação de suas interfaces de repo0sitório. Apenas essa camada deve saber sobre o banco de dados e a tecnologia de acesso a dados.

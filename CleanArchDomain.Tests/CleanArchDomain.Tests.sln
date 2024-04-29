@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchDomain.Tests", "CleanArchDomain.Tests.csproj", "{635CA625-0E2F-469D-B547-2B5DB0225EBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{635CA625-0E2F-469D-B547-2B5DB0225EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{635CA625-0E2F-469D-B547-2B5DB0225EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{635CA625-0E2F-469D-B547-2B5DB0225EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{635CA625-0E2F-469D-B547-2B5DB0225EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68E50586-87CE-4465-A76F-C553DE4F1B6B}
+	EndGlobalSection
+EndGlobal
