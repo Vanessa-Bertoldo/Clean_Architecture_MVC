@@ -17,7 +17,7 @@ namespace CleanArchMvc.Infra.Data.Context
             base.OnModelCreating(builder);
 
             // Aplica as configurações de mapeamento das entidades definidas no assembly onde a classe AplicationDbContext está localizada
-            builder.ApplyConfigurationsFromAssembly(typeof(AplicationDbContext).Assembly);
+            builder.ApplyConfigurationsFromAssembly(typeof(AplicationDbContext).Assembly); //Pega as configurações definidas em EntityConfiguration como referencia para o build
         }
     }
 }
