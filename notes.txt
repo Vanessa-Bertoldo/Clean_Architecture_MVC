@@ -12,4 +12,7 @@ Responsável por representar conceitos do negócio, informações sobre a situa�
 
 CAMADA DE INFRAESTRUTURA
 Responsável por lidar com as necessidades de infraestrutura e fornece a imlementação de suas interfaces de repo0sitório. Apenas essa camada deve saber sobre o banco de dados e a tecnologia de acesso a dados.
-Repositorios: 
+
+
+CAMADA DE INFRA IoC
+Registro dos serviços
