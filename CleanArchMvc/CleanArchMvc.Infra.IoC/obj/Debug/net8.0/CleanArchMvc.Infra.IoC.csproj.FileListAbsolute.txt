@@ -18,3 +18,5 @@ C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\Clean
 C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net8.0\refint\CleanArchMvc.Infra.IoC.dll
 C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net8.0\CleanArchMvc.Infra.IoC.pdb
 C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net8.0\ref\CleanArchMvc.Infra.IoC.dll
+C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net8.0\CleanArchMvc.Infra.IoC.runtimeconfig.json
+C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net8.0\CleanArchMvc.Infra.IoC.genruntimeconfig.cache

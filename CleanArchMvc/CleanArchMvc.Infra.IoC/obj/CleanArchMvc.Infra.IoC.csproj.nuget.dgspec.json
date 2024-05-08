@@ -30,6 +30,9 @@
             "projectReferences": {
               "C:\\Users\\Z\\Documents\\clean_architecture\\Clean_Architeture_MVC\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
                 "projectPath": "C:\\Users\\Z\\Documents\\clean_architecture\\Clean_Architeture_MVC\\CleanArchMvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
+              },
+              "C:\\Users\\Z\\Documents\\clean_architecture\\Clean_Architeture_MVC\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\Z\\Documents\\clean_architecture\\Clean_Architeture_MVC\\CleanArchMvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj"
               }
             }
           }
@@ -43,6 +46,13 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "suppressParent": "None",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -160,7 +170,7 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
+              "suppressParent": "None",
               "target": "Package",
               "version": "[8.0.4, )"
             },
