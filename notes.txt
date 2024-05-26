@@ -16,3 +16,7 @@ Responsável por lidar com as necessidades de infraestrutura e fornece a imlemen
 
 CAMADA DE INFRA IoC
 Registro dos serviços
+
+
+DTO - Data Transfer Objects
+É um contêiner de dados usado para transportar dados entre camadas de uma apicação (fica no projeto Application)
