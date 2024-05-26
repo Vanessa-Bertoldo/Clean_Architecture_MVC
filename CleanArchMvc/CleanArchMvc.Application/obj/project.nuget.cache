@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Zrl0kgrDiTBsSd/DKW2rXr9bpQp0R9KKvKyS2ffHhdmAThjkaNPSgRUT/1LPgtsIo4gChV1xbR63X0mbxygMoA==",
+  "dgSpecHash": "IuHy6tso1g1fLLoFX+k9AIDZgBAANHMznXaDhFUjQ8koCmX1ygfkoJyYB2S9qC6CYLBw81W31d1dhPeBSsB1UQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Z\\Documents\\clean_architecture\\Clean_Architeture_MVC\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Z\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Z\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Z\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\Z\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
