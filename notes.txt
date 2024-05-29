@@ -20,3 +20,8 @@ Registro dos serviços
 
 DTO - Data Transfer Objects
 É um contêiner de dados usado para transportar dados entre camadas de uma apicação (fica no projeto Application)
+
+
+CAMADA Application
+Responsável por fazer a comunicação com a camada de dominio
+Nela encontramos os DTOs, interfaces (contratos), CQRS
