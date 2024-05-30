@@ -1,8 +1,11 @@
 C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net8.0\CleanArchMvc.Application.deps.json
+C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net8.0\CleanArchMvc.Application.runtimeconfig.json
 C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net8.0\CleanArchMvc.Application.dll
 C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net8.0\CleanArchMvc.Application.pdb
 C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net8.0\CleanArchMvc.Domain.dll
+C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net8.0\CleanArchMvc.Infra.Data.dll
 C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net8.0\CleanArchMvc.Domain.pdb
+C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net8.0\CleanArchMvc.Infra.Data.pdb
 C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.csproj.AssemblyReference.cache
 C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.AssemblyInfoInputs.cache
@@ -13,8 +16,5 @@ C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\Clean
 C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.dll
 C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\refint\CleanArchMvc.Application.dll
 C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.pdb
-C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\ref\CleanArchMvc.Application.dll
-C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net8.0\CleanArchMvc.Application.runtimeconfig.json
 C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\CleanArchMvc.Application.genruntimeconfig.cache
-C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net8.0\CleanArchMvc.Infra.Data.dll
-C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Application\bin\Debug\net8.0\CleanArchMvc.Infra.Data.pdb
+C:\Users\Z\Documents\clean_architecture\Clean_Architeture_MVC\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net8.0\ref\CleanArchMvc.Application.dll
