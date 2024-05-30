@@ -25,3 +25,4 @@ DTO - Data Transfer Objects
 CAMADA Application
 Responsável por fazer a comunicação com a camada de dominio
 Nela encontramos os DTOs, interfaces (contratos), CQRS
+Um serviço sempre usa uma entidade para comunicação com o banco (Entity, repository), enquanto o DTO é usado para a camada de apresentação 
